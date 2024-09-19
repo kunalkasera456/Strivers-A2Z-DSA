@@ -1,4 +1,4 @@
-public class Main {
+public class AlphaRamp {
     public static void main(String[] args) {
         int n = 6;
         char ch = 'A';

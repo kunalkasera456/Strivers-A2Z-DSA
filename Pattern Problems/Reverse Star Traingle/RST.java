@@ -6,7 +6,7 @@
  */
 
 
-public class Main {
+public class RST {
     public static void main(String[] args) {
         int n = 6;
     

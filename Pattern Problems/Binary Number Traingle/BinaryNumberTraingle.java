@@ -4,7 +4,7 @@
  * 1 0 1
  */
 
-public class Main {
+public class BinaryNumberTraingle {
 
     public static void main(String[] args) {
         int n = 6;

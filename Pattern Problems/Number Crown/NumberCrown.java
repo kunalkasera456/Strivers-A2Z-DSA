@@ -7,7 +7,7 @@
 
 
 
-public class Main {
+public class NumberCrown {
     public static void main(String[] args) {
         int n = 3;
     

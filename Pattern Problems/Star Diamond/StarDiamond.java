@@ -8,7 +8,7 @@
         --*
  */
 
-public class Main {
+public class StarDiamond {
     public static void main(String[] args) {
         int n = 6;
 

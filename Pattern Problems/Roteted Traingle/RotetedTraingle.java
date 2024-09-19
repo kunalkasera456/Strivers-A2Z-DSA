@@ -10,7 +10,7 @@ Output:
  */
 
 
-public class Main {
+public class RotetedTraingle {
     public static void main(String[] args) {
         int n = 6;
     
