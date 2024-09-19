@@ -14,7 +14,7 @@ import java.util.HashMap;
 // Input: nums = [3,3], target = 6
 // Output: [0,1]
 
-public class Solution {
+public class Twosum {
     public static int[] twoSum(int[] nums, int target) {
         int[] ans = new int[2];
 
